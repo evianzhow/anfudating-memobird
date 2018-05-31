@@ -11,6 +11,8 @@
 
 安福大厅 | 一周，一周年：https://mp.weixin.qq.com/s/7mEnSkRYEGk9gj3U2nWvZg
 
+Demo：![Demo.mp4](assets/demo.mp4)
+
 ## Getting Started
 ### Prerequisites
 
