@@ -13,7 +13,8 @@
 
 Demo：
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pg2jVQl6kPU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+- [YouTube](https://www.youtube.com/watch?v=pg2jVQl6kPU) 
+- [Raw MP4](assets/demo.mp4)
 
 ## Getting Started
 ### Prerequisites
