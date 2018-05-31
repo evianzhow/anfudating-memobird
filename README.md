@@ -20,7 +20,7 @@ Demo：
 ### Prerequisites
 
 - `yarn`
-- `node` version 8 or later
+- `node` v8.X or later
 
 ### Installing
 
