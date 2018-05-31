@@ -11,7 +11,9 @@
 
 安福大厅 | 一周，一周年：https://mp.weixin.qq.com/s/7mEnSkRYEGk9gj3U2nWvZg
 
-Demo：![Demo.mp4](assets/demo.mp4)
+Demo：
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pg2jVQl6kPU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Getting Started
 ### Prerequisites
